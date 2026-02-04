@@ -1,4 +1,4 @@
-let = ("hello")
-let =("world")
+let ola = "hello"
+let  mundo ="world"
 
-console.log(hello  + world)
+console.log(hello +" " + world)
